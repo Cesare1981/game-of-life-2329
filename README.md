@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+ELEMENTI NECESSARI PER FAR PARTIRE IL GIOCO DELLA VITA:
 
-* Configuration
+1 INSTALLARE VERSIONE3.1.6 E SUPERIORE DI RUBY
 
-* Database creation
+2 AGGIORNARE DATABASE DELLE GEMME
 
-* Database initialization
+3 LANCIARE RUBY ON RAILS
 
-* How to run the test suite
+4 APRIRE INTERFACCIA DI LOOPBACK  
 
-* Services (job queues, cache servers, search engines, etc.)
+5 AVVIARE IL GIOCO
 
-* Deployment instructions
 
-* ...
